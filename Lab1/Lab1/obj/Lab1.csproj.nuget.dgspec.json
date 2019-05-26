@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\yadisk\\YandexDisk\\Android\\Lab1\\Lab1\\Lab1.csproj": {}
+  },
+  "projects": {
+    "D:\\yadisk\\YandexDisk\\Android\\Lab1\\Lab1\\Lab1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yadisk\\YandexDisk\\Android\\Lab1\\Lab1\\Lab1.csproj",
+        "projectName": "Lab1",
+        "projectPath": "D:\\yadisk\\YandexDisk\\Android\\Lab1\\Lab1\\Lab1.csproj",
+        "packagesPath": "C:\\Users\\Rinat\\.nuget\\packages\\",
+        "outputPath": "D:\\yadisk\\YandexDisk\\Android\\Lab1\\Lab1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rinat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[27.0.2.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
